@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shyamali Ayodhya 👋</h1>
 
-<!--
-**Ayodhya-Herath/Ayodhya-Herath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Ayodhya-Herath/images/blob/main/IMG-20231226-WA0078.jpg" width="180" height="180" style="border-radius: 50%; border: 2px solid #fff;" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>🎨 Graphic Designer | 🧩 3D Artist | 🎬 Animator | 🎮 Game Designer</em><br>
+  <strong>Undergraduate in Multimedia at NSBM Green University</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github.com/Ayodhya-Herath/images/blob/main/animated-female-coder-character-402691.gif" width="300" />
+</p>
+
+---
+
+### 🧠 About Me
+
+```txt
+Curious. Bold. Creative.
+
+I love crafting visually immersive stories through design, animation, and interactive game worlds.
+Always exploring new tools, blending art and technology to bring digital dreams to life.
