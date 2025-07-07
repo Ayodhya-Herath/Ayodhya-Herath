@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>🎨 Graphic Designer | 🧩 3D Artist | 🎬 Animator | 🎮 Game Designer</em><br>
-  <strong>Undergraduate at NSBM Green University – Faculty of Computing & Creative Technology</strong>
+  <strong>Undergraduate at NSBM Green University – Faculty of Business & Creative Technology</strong>
 </p>
 
 <p align="center">
