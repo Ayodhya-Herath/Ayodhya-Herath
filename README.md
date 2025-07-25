@@ -9,7 +9,10 @@
   <em>🎨 Graphic Designer | 🧩 3D Artist | 🎬 Animator | 🎮 Game Designer</em><br>
   <strong>Undergraduate at NSBM Green University – Faculty of Business & Creative Technology</strong>
 </p>
----
+
+<p align="center">
+  <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Cat.gif" width="280" />
+</p>
 
 ### 🧠 About Me
 
