@@ -2,18 +2,13 @@
 <h1 align="center">Hi, I'm <span style="color:#ff69b4">Shyamali Ayodhya</span> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Ayodhya-Herath/images/blob/main/IMG-20231226-WA0078.jpg" width="150" style="border-radius: 50%; border: 2px solid #fff;" />
+  <img src="https://github.com/Ayodhya-Herath/images/blob/main/animated-female-coder-character-402691.gif" width="280" />
 </p>
 
 <p align="center">
   <em>🎨 Graphic Designer | 🧩 3D Artist | 🎬 Animator | 🎮 Game Designer</em><br>
   <strong>Undergraduate at NSBM Green University – Faculty of Business & Creative Technology</strong>
 </p>
-
-<p align="center">
-  <img src="https://github.com/Ayodhya-Herath/images/blob/main/animated-female-coder-character-402691.gif" width="280" />
-</p>
-
 ---
 
 ### 🧠 About Me
