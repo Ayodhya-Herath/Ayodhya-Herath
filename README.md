@@ -11,6 +11,7 @@
   <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Cat.gif" width="280" />
 </p>
 ### 🧠 About Me
+
 ```txt
 Design is my playground. I shape visual experiences through bold colors, immersive 3D worlds, motion, and interactivity.
 
